@@ -10,7 +10,7 @@ Your team: group number 12
 
   - Student 1: Doha JOUAY `DohaJouay`
 
-  - Student 2: Badreddine LAHRACH ''
+  - Student 2: Badreddine LAHRACH 'badrelahrach'
   
   - Student 3: Othmane AQBOUR 'Othmane-AQBOUR'
   
